@@ -36,6 +36,10 @@
 - [x] Deslogar da aplicação.
 - [x] Entrar em contato com a ong, por email e whatsapp.
 
+### 💻 Projeto
+
+Be the Hero é uma aplicação que serve para que "heróis" encontrem um caso que possam ajudar. Projeto desenvolvido durante a Semana Ominstack 11. 
+
 ### ✅ Demonstração
 <img src="https://github.com/Gabriel-Teixeira/Be-the-Hero/blob/master/frontend/src/assets/dashboard.PNG" />
 
