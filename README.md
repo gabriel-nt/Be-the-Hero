@@ -50,7 +50,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Gabriel-Teixeira/Be-The-Hero
+$ git clone https://github.com/Gabriel-Teixeira/Be-the-Hero
 
 # Navegue para a pasta
 $ cd backend
