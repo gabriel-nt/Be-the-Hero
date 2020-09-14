@@ -37,7 +37,7 @@
 - [x] Entrar em contato com a ong, por email e whatsapp.
 
 ### ✅ Demonstração
-<img src="https://github.com/Gabriel-Teixeira/Ecoleta/blob/master/web/src/assets/dashboard.PNG" />
+<img src="https://github.com/Gabriel-Teixeira/Be-the-Hero/blob/master/frontend/src/assets/dashboard.PNG" />
 
 ### ⚙ Pré-requisitos
 
